@@ -1,0 +1,12 @@
+@import "base/reset";
+@import "variables/font";
+@import "components/sizes";
+@import "variables/colors";
+@import "bootstrap/bootstrap.scss";
+@import "layers/header";
+
+body {
+    font-family: $font-default;
+    line-height: 1.6;
+}
+
